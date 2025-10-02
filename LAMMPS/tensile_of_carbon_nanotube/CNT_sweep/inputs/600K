@@ -50,6 +50,7 @@ compute Tmid cnt_mid temp
 thermo 100
 thermo_style custom step temp etotal v_Lcnt v_Fcnt
 thermo_modify temp Tmid line yaml
+thermo_style custom step temp pe ke etotal press pxx 
 
 timestep 0.0005
 run 10000
