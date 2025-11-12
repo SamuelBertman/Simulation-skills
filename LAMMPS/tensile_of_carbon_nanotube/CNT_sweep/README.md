@@ -14,4 +14,4 @@ Inputs
 
 [Max Stress vs Temperature Graph](graph_max-stress_vs_temperature.png)
 
-[Max Stress vs Temperature Table](table_max-stress_vs_temperature.png)
+[Max Stress vs Temperature Table](table_max-stress_vs_temperature)
