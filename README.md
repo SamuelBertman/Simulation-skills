@@ -1,4 +1,4 @@
 # Simulation Work
 ## LAMMPS
-- [Binary Fluid Simulation]
-- [Tensile Strength Testing of a Carbon Nanotube]
+- [Binary Fluid Simulation](https://github.com/SamuelBertman/simulation-skills/LAMMPS/README.md)
+- [Tensile Strength Testing of a Carbon Nanotube](https://github.com/SamuelBertman/simulation-skills)
