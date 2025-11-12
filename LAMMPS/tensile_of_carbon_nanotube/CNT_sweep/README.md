@@ -2,3 +2,10 @@ To see the effect of temperature on the max stress value (σ) via altering the "
 
 # parameters:
 temperature = 300K, 600K, 900K
+
+Inputs
+[300K](inputs/T300)
+[600K](inputs/T600)
+[900K](inputs/T900)
+
+[Max Stress vs Temperature Graph](graph_max-stress_vs_temperature)
